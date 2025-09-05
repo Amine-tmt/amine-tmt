@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bekhouche Amine</h1>
 <h3 align="center">A passionate Data science & AI student</h3>
-<h5 align="center">I build only what excites me</h5>
+<h4 align="center"><i>I build only what excites me<i></h4>
 
 
 # 💻 Tech Stack:
