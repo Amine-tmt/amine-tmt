@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bekhouche Amine</h1>
+<h1 align="center">Hay Hay, I'm Amine u can call me TMT</h1>
 <h3 align="center">A passionate Data science & AI student</h3>
 <h4 align="center"><i>I build only what excites me<i></h4>
 
