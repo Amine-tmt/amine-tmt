@@ -24,7 +24,6 @@
 <div align="center">
 
 | | |
-|---|---|
 | **name** | Bekhouche Mohamed Amine |
 | **alias** | TMT |
 | **location** | Algiers, Algeria |
