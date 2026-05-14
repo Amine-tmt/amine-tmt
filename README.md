@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+%40+ENP;LLM+%7C+Edge+AI+%7C+NLP+%7C+Computer+Vision;Research+Intern+%40+NYU+Abu+Dhabi;Polytechnic+Engineer+%E2%80%94+the+foundation+runs+deep;I+build+only+what+excites+me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+%40+ENP;LLM+%7C+Edge+AI+%7C+NLP+%7C+Computer+Vision;Research+Intern+%40+NYU+Abu+Dhabi;Polytechnic+Engineer+%E2%80%94+the+foundation+runs+deep;I+build+only+what+excites+me" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,15 +21,19 @@
 
 <br/>
 
-```
-  name       Bekhouche Mohamed Amine
-  alias      TMT
-  location   Algiers, Algeria
-  school     National Polytechnic School (ENP)
-  focus      LLMs  •  Edge AI  •  NLP  •  Computer Vision
-  now        Research Intern @ NYU Abu Dhabi
-             LLM Engineer Intern @ Ericsson
-```
+<div align="center">
+
+| | |
+|---|---|
+| **name** | Bekhouche Mohamed Amine |
+| **alias** | TMT |
+| **location** | Algiers, Algeria |
+| **school** | National Polytechnic School — ENP |
+| **focus** | LLMs &nbsp;•&nbsp; Edge AI &nbsp;•&nbsp; NLP &nbsp;•&nbsp; Computer Vision |
+| **currently** | Research Intern @ NYU Abu Dhabi &nbsp;|&nbsp; LLM Intern @ Ericsson |
+| **motto** | *"I build only what excites me"* |
+
+</div>
 
 <br/>
 
@@ -39,9 +43,21 @@
 
 <br/>
 
+<div align="center">
+
+[![NYU](https://img.shields.io/badge/NYU_Abu_Dhabi-Research-00b4d8?style=for-the-badge&labelColor=0d1b2a&logo=academia&logoColor=00b4d8)](https://nyuad.nyu.edu)
+[![Ericsson](https://img.shields.io/badge/Ericsson-LLM_Engineer-00b4d8?style=for-the-badge&labelColor=0d1b2a&logo=ericsson&logoColor=00b4d8)](https://ericsson.com)
+
+</div>
+
+<br/>
+
 ```
-  Edge LLMs & Vision-Language Models          NYU Abu Dhabi
-  GenAI chatbot for antenna config            Ericsson
+  [NYU Abu Dhabi]   Edge LLMs & Vision-Language Models
+                    Deploying AI under memory, latency & compute constraints
+
+  [Ericsson]        GenAI chatbot for 2G/3G/4G/5G antenna config automation
+                    Prompt engineering pipelines + LLM API integration
 ```
 
 <br/>
@@ -111,7 +127,11 @@
 
 <br/>
 
+<div align="center">
+
 > Polytechnic engineer — the foundation covers systems, networks, logic & beyond.
+
+</div>
 
 <br/>
 
@@ -184,9 +204,9 @@ Prolog-based AI detective reasoning over crime scene evidence with probabilistic
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=Amine-tmt&show_icons=true&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Amine-tmt&show_icons=true&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amine-tmt&theme=github_dark&hide_border=true&layout=compact&title_color=00b4d8&count_private=true"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amine-tmt&theme=darkhub&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br/>
