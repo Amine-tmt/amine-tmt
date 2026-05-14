@@ -29,7 +29,6 @@
   focus      LLMs  •  Edge AI  •  NLP  •  Computer Vision
   now        Research Intern @ NYU Abu Dhabi
              LLM Engineer Intern @ Ericsson
-  motto      "I build only what excites me"
 ```
 
 <br/>
