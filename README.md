@@ -184,9 +184,9 @@ Prolog-based AI detective reasoning over crime scene evidence with probabilistic
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amine-tmt&show_icons=true&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine-tmt&theme=github_dark&hide_border=true&layout=compact&title_color=00b4d8&count_private=true"/>
+https://github-readme-stats.vercel.app/api?username=Amine-tmt&show_icons=true&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amine-tmt&theme=darkhub&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br/>
