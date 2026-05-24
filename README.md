@@ -30,7 +30,7 @@
 | **location** | Algiers, Algeria |
 | **school** | National Polytechnic School — ENP |
 | **focus** | LLMs &nbsp;•&nbsp; Edge AI &nbsp;•&nbsp; NLP &nbsp;•&nbsp; Computer Vision |
-| **currently** | Research Intern @ NYU Abu Dhabi &nbsp;|&nbsp; LLM Intern @ Ericsson |
+| **currently** | Research Intern @ ebrain lab NYUAD &nbsp;|&nbsp; LLM Intern @ Ericsson |
 | **motto** | *"I build only what excites me"* |
 
 </div>
@@ -49,18 +49,6 @@
 [![Ericsson](https://img.shields.io/badge/Ericsson-LLM_Engineer-00b4d8?style=for-the-badge&labelColor=0d1b2a&logo=ericsson&logoColor=00b4d8)](https://ericsson.com)
 
 </div>
-
-<br/>
-
-```
-  [NYU Abu Dhabi]   Edge LLMs & Vision-Language Models
-                    Deploying AI under memory, latency & compute constraints
-
-  [Ericsson]        GenAI chatbot for 2G/3G/4G/5G antenna config automation
-                    Prompt engineering pipelines + LLM API integration
-```
-
-<br/>
 
 ---
 
